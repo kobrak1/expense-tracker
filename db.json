@@ -3,7 +3,7 @@
     {
       "id": "1",
       "content": "tomorrow is today brotha!",
-      "important": false
+      "important": true
     },
     {
       "id": "2",
@@ -13,12 +13,17 @@
     {
       "id": "40f9",
       "content": "burak karhan",
-      "important": false
+      "important": true
     },
     {
       "id": "1548",
       "content": "burak karhan",
-      "important": false
+      "important": true
+    },
+    {
+      "id": "8df2",
+      "content": "Ubeyt Karhan",
+      "important": true
     }
   ]
 }
